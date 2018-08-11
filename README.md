@@ -1,6 +1,6 @@
 # widget_stateless
 
-A new Flutter project.
+Um app em flutter construído seguindo o vídeo do youtube: https://www.youtube.com/watch?v=6f1rTeDm9oE "Stateless widgets!" 
 
 ## Getting Started
 
